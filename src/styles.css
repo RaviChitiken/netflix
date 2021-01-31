@@ -1,0 +1,71 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+  }
+  
+  body {
+    background-color: #181818;
+  }
+  
+  .card_img {
+    border-radius: 5px;
+    border: 3px solid #0971F1;
+    border-style: ridge;
+    margin: 30px 0px 0px 0px;
+  }
+  
+  .headerTitle {
+    padding: 30px;
+    background: #000;
+    color: #f00;
+    letter-spacing: 5px;
+    font-size: 22px;
+  }
+  
+  .hrLineHeader {
+    width: 100%;
+    border: 5px solid #222222;
+    border-style: outset;
+    margin-bottom: 20px;  
+  }
+  
+  .hrLineFooter {
+    width: 100%;
+    border: 5px solid #222222;
+    border-style: inset;
+    margin-top: 50px;
+    margin-bottom: 30px;  
+  }
+  
+  .footBox {  
+    color: #999999;
+    margin: 30px 0px 30px 0px;   
+  }
+  
+  .card_info {
+  margin-top: 10px;
+  }
+  
+  .card_category {
+    font-size: 13px;
+    color: #999999;  
+  }
+  
+  .card_title {
+    font-size: 22px;
+    color: white;
+    padding: 10px 0px 15px 0px;
+  }
+  
+  .btnWatchNow {
+    width: 120px;
+    height: 30px;
+    font-size: 16px;
+    background: #f00;
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;  
+  }
